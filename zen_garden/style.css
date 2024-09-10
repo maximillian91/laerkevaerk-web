@@ -756,7 +756,7 @@
    width: 125px;
    height: 125px;
    margin: -65px 40px 0 0;
-   background: url(enso.svg);
+   background: url(img/enso.svg);
    background-size: 100%;
    opacity: 0.6;
    -webkit-animation: koan 36000s infinite alternate;
